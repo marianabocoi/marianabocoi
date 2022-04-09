@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 😄 Pronouns: she/her/they/them
+- 🌱 I’m currently learning GCP, Kubernetes, and infrastrusture components
+- ⚙️ I am an organiser of [GDG Cloud Stockholm](https://www.meetup.com/GDG-Cloud-Stockholm/)
+- 🕸 find me at [tech-cake.se](https://tech-cake.se)
 
 <!--
 **marianabocoi/marianabocoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
